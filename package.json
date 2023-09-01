@@ -19,7 +19,6 @@
   },
   "types": "types/index.d.ts",
   "scripts": {
-    "prepublishOnly": "tsc && npm test",
     "test": "uvu test"
   },
   "devDependencies": {
